@@ -1,0 +1,3 @@
+#Ignorar archivos de Mac
+.DS_Store
+.Rhistory
