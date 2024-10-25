@@ -14,7 +14,7 @@
 ## Estructura del proyecto
 
 - `data/`: Contiene los conjuntos de datos crudos y procesados.
-- `docs/`: Documentación
+- `documentation/`: Proporciona detalles adicionales sobre los scripts incluidos.
 - `scripts/`: Código fuente del proyecto.
 - `notebooks/`: Notebooks utilizados para análisis y visualización.
 - `tests/`: Scripts para probar el código.
