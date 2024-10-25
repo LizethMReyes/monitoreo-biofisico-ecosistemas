@@ -1,5 +1,5 @@
 # **Monitoreo biofísico de ecosistemas para apoyar la gestión de recursos** 🌱🌞🦎🌎📑📊
-[DOI](https://pages.github.com/)
+
 #### Palabras clave: *Estrés evaporativo*, *visualización*, *analísis*.
 ## Objetivos
 
@@ -20,7 +20,7 @@
 - `tests/`: Scripts para probar el código.
 
 ## Analísis
-1. [Implicaciones del estrés evaporativo en pastizales cultivados a lo largo de un gradiente altitudinal: Un estudio en la Cuenca del Río Usumacinta,  México.](https://www.researchgate.net/publication/376450619_Implicaciones_del_estres_evaporativo_en_pastizales_cultivados_a_lo_largo_de_un_gradiente_altitudinal_Un_estudio_en_la_Cuenca_del_Rio_Usumacinta_Mexico)
+1. [Implicaciones del estrés evaporativo en pastizales cultivados a lo largo de un gradiente altitudinal: Un estudio en la Cuenca del Río Usumacinta,  México.](https://zenodo.org/records/13896228)
 2.  [Analizando la respuesta de la vegetación al estrés hídrico en los ecosistemas naturales e inducidos en la Cuenca del Río Usumacinta, México.]()
 
 
