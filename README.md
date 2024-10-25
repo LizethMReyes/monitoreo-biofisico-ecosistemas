@@ -20,9 +20,9 @@
 - `tests/`: Scripts para probar el código.
 
 ## Analísis
-1. [Implicaciones del estrés evaporativo en pastizales cultivados a lo largo de un gradiente altitudinal: Un estudio en la Cuenca del Río Usumacinta,  México.](https://zenodo.org/records/13896228)
-2.  [Analizando la respuesta de la vegetación al estrés hídrico en los ecosistemas naturales e inducidos en la Cuenca del Río Usumacinta, México.]()
-
+1. [Estimación de indicadores de Productividad Primaria en ecosistemas semiáridos: trasladando modelos locales a la extensión de los ecosistemas](https://zenodo.org/records/13896017)
+2. [Implicaciones del estrés evaporativo en pastizales cultivados a lo largo de un gradiente altitudinal: Un estudio en la Cuenca del Río Usumacinta,  México.](https://zenodo.org/records/13896228)
+3. [Estaciones Meteorológicas: Análisis de Precipitación.](https://github.com/LizethMReyes/Analisis_de_Precipitacion)
 
 
 ## Para citar nuestro trabajo 🙋‍♀️🙋‍♂️
