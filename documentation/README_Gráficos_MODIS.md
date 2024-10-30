@@ -1,18 +1,20 @@
 # Gráficos de Estadísticas de Datos del Sensor MODIS
 
-**Autores:** Abigail Juárez, Claudia Coronel, Lizeth Reyes  
+**Autores:** Abigail Juárez [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0001-3942-5976), Claudia Coronel [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0002-8773-495X), Lizeth Reyes [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0004-2110-4877)
+
 **Fecha:** 14 de octubre de 2024  
 **Contacto:** ssocialsig@institutomora.edu.mx  
 **Script modificado a partir de:** Plot Statistics Output from the MODIS Global and Fixed Site Tools  
 **Autor original:** ORNL DAAC  
 **Fecha original:** April 4, 2018  
 **Contacto para ORNL DAAC:** uso@daac.ornl.gov  
-**Repositorio original:** [ORNL DAAC MODIS GitHub](https://github.com/ornldaac/modis/blob/master/modis-global-fixed-statistics.ipynb)  
+**Repositorio original:** [![Repositorio](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/LizethMReyes/monitoreo-biofisico-ecosistemas?tab=readme-ov-file) [Monitoreo biofísico de ecosistemas para apoyar la gestión de recursos 🌱🌞🦎🌎📑📊](https://github.com/LizethMReyes/monitoreo-biofisico-ecosistemas?tab=readme-ov-file) 
+
 
 ---
 
 ## Generalidades
-Este documento muestra cómo visualizar las estadísticas generadas por el MODIS Global Tool ([enlace](https://modis.ornl.gov/cgi-bin/MODIS/global/subset.pl)) y el MODIS Fixed Sites Tool ([enlace](https://modis.ornl.gov/sites/)) a cargo de ORNL DAAC. Actualmente, se ofrecen 2 herramientas:
+Este documento muestra cómo visualizar las estadísticas generadas por el  [MODIS Global Tool](https://modis.ornl.gov/cgi-bin/MODIS/global/subset.pl) y el  [MODIS Fixed Sites Tool](https://modis.ornl.gov/sites/) a cargo de ORNL DAAC. Actualmente, se ofrecen 2 herramientas:
 - **ORNL DAAC.** 2017. MODIS Collection 6 Land Products Fixed Sites Subsetting and Visualization Tool. ORNL DAAC, Oak Ridge, Tennessee, USA. [DOI](https://doi.org/10.3334/ORNLDAAC/1567)
 - **ORNL DAAC.** 2017. MODIS Collection 6 Land Products Global Subsetting and Visualization Tool. ORNL DAAC, Oak Ridge, Tennessee, USA. [DOI](https://doi.org/10.3334/ORNLDAAC/1379)
 
