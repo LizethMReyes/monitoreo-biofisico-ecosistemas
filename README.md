@@ -47,7 +47,7 @@ Coronel, A. C., Serna, F., Alcudia-Aguilar, A., Popoca-Cruz, P. E., Madrigal-Gó
 
 
 ### Contacto:
-- Alejandro Alcudia:aalcudia.aguilar85@gmail.com [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0003-2334-5725)
+- Alejandro Alcudia: alejandro.alcudia@cultivo.land [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0003-2334-5725)
 - Claudia Coronel: ccoronel@institutomora.edu.mx [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0002-8773-495X)
 - Abigail J.: AbigailJoanneS@gmail.com [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0001-3942-5976)
 - José Manual Madrigal: jmadrigal@centrogeo.edu.mx [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0003-3508-258X)
