@@ -51,7 +51,7 @@ Coronel, A. C., Serna, F., Alcudia-Aguilar, A., Popoca-Cruz, P. E., Madrigal-Gó
 - Claudia Coronel: ccoronel@institutomora.edu.mx [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0002-8773-495X)
 - Abigail J.: AbigailJoanneS@gmail.com [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0001-3942-5976)
 - José Manual Madrigal: jmadrigal@centrogeo.edu.mx [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0003-3508-258X)
-- Pavel Popoca: pepopoca@gmail.com [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0002-4471-5310)
+- Pavel Popoca: pepopoca@iecologia.unam.mx [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0002-4471-5310)
 - Lizeth Reyes : lizeth_reyes_irnr@outlook.com [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0004-2110-4877)
 - Fernanda Serna: mafersrn507@gmail.com 
 
