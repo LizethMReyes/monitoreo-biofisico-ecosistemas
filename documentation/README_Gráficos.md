@@ -1,4 +1,4 @@
-# Código para Visualizar Serie de Tiempo
+# Código para Visualizar Coordenadas Paralelas de Series de Tiempo
 
 **Autores:** Fernanda Serna, Lizeth Reyes [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0004-2110-4877)
 

@@ -30,7 +30,7 @@ Aquí se listan los módulos disponibles y sus respectivos `README` para más de
    - Script: [`codigo_rellenar.R`](https://github.com/LizethMReyes/monitoreo-biofisico-ecosistemas/blob/master/scripts/codigo_rellenar.R)
    - Documentación: [`README`](https://github.com/LizethMReyes/monitoreo-biofisico-ecosistemas/blob/master/documentation/README_Rellenar_Datos_Faltantes.md)
 
-2. **Código para Visualizar Serie de Tiempo**  
+2. **Código para Visualizar Coordenadas Paralelas de Series de Tiempo**  
    - Script: [`gráficos2.R`](https://github.com/LizethMReyes/monitoreo-biofisico-ecosistemas/blob/master/scripts/gr%C3%A1ficos2.R)
    - Documentación: [`README`](https://github.com/LizethMReyes/monitoreo-biofisico-ecosistemas/blob/master/documentation/README_Gr%C3%A1ficos.md)
 
