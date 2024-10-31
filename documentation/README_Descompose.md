@@ -1,6 +1,6 @@
 # Descomposición de Series de Tiempo de Variables Biofísicas
 
-**Autor:** Fernanda Serna, Lizeth Reyes lizeth_reyes_irnr@outlook.com [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0004-2110-4877)
+**Autor:** Fernanda Serna [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0002-7179-0009), Lizeth Reyes lizeth_reyes_irnr@outlook.com [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0004-2110-4877)
 
 **Fecha:** 10 de junio de 2022  
 **Contacto:** ssocialsig@institutomora.edu.mx  

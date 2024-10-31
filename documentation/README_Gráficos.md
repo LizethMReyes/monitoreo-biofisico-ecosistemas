@@ -1,6 +1,6 @@
 # Código para Visualizar Coordenadas Paralelas de Series de Tiempo
 
-**Autores:** Fernanda Serna, Lizeth Reyes [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0004-2110-4877)
+**Autores:** Fernanda Serna [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0000-0002-7179-0009), Lizeth Reyes [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0004-2110-4877)
 
 **Fecha:** 10 de junio de 2023  
 **Contacto:** ssocialsig@institutomora.edu.mx  
